@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to this project will be documented in this file, from 0.2.0.
 
+## [5.3.1] - 2024-05-17
+  - Log4j CVE-2021-44228 patch 2.6.2 to 2.12.2
+
 ## [5.3.0] - 2017-11-08
   - Adds configuration options `enable_event_as_json_keyword` and `event_as_json_keyword`
   - Adds BigDecimal support
